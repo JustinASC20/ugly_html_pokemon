@@ -1,0 +1,17 @@
+h1 {
+    color: yellow;
+    text-align: center;
+    background-color: rgb(52, 85, 235);
+}
+
+.introduction {
+    background-color: black;
+}
+
+h2 {
+    color: white;
+}
+
+#starters_image_div {
+    padding-left: 700px;
+}
